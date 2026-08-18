@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "COLLAGE_SMP_SEASON-2.aternos.me",
+    "port":  61094,
     "version": "",
     "try-creative": false
   },
