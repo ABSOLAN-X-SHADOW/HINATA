@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "HINATA",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "COLLAGE_SMP_SEASON-2.aternos.me",
-    "port":  61094,
+    "port": 61094,
     "version": "",
     "try-creative": false
   },
